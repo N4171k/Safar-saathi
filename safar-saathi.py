@@ -7,7 +7,7 @@ from streamlit_folium import folium_static
 import os
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyDU7fYFAcTrA-N4fJFYxeNsL30qU2uFZO0")
+genai.configure(api_key="AIzaSyD9tJVuvqin0E8ZXQTr8APiPkWqF9iGk5U")
 
 class ItineraryMaker:
     def __init__(self):
